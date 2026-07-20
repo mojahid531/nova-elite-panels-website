@@ -1,7 +1,6 @@
 # NOVA Elite Panels LLC Website
 
-This package contains the complete NOVA Elite Panels product-showcase website. It is a static React and Vite project with all product and staging images stored locally, so it can be edited in **Visual Studio Code** and published through **GitHub Pages** without relying on the Manus image-storage service.
-
+This package contains the complete NOVA Elite Panels product-showcase website. It is a static React and Vite project with all product and staging images stored locally, so it can be edited in **Visual Studio Code** and published through **GitHub Pages**.
 | Item | Details |
 |---|---|
 | Framework | React 19, Vite, TypeScript, Tailwind CSS |
